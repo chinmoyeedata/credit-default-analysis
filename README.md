@@ -1,8 +1,8 @@
 # Credit Default Analysis
 
 ## Project Overview
-This project analyzes customer credit default behavior using financial data.  
-The goal is to identify patterns and factors associated with higher default risk.
+This project analyzes customer credit default behavior using Python, SQL, and Tableau on a financial dataset.  
+It aims to identify patterns and key factors that contribute to higher default risk.
 
 ## Tools & Technologies
 - Python
